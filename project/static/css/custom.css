@@ -1,0 +1,25 @@
+.spacer-10 {
+    display: block;
+    min-height: 10vh;
+}
+
+.dumb-seo {
+    font-size: 6pt;
+    background-color: coral;
+    color: blueviolet;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.title {
+    font-weight: 800;
+    font-size: 2rem;
+    line-height: 1.25rem;
+    margin-top: 1em;
+}
